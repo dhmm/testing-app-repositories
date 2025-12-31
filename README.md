@@ -1,13 +1,23 @@
 # Noted repositories for testing
 
-## Restaurant-Management-System with Laravel
-https://github.com/rafin007/Restaurant-Management-System---Laravel
+## Node JS Projects
 
-## Student Management System with Laravel
-https://github.com/DasunNethsara-04/sms-v2
+### Restaurant Management System with NodeJS
+https://github.com/MujtabaCoder/RMS-restaurant-management-system-nodejs
 
-## A simple URL shortner built with Laravel 
-https://github.com/milon/url-shortener
+### URL Shortener with Node JS
+https://github.com/murraco/node-url-shortener
 
-## Liberu Real Estate / Estate Agency
-https://github.com/liberu-real-estate/real-estate-laravel
+### School managemetn App with NodeJS
+https://github.com/unRealAhmed/School-Management-System-API
+
+## Java Spring Boot Projects
+
+### URL shortener with Java Spring Boot
+https://github.com/zeeshaanahmad/url-shortener
+
+### School Management with Java Spring Boot
+https://github.com/calmHeaven/SpringBootSchoolManagementSystem
+
+### Restaurant Managemetn System with Java Spring Boot
+https://github.com/Amit-Ashok-Swain/Restaurant-Management-System
