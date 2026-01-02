@@ -43,3 +43,15 @@ Branch name: main
 [https://github.com/Amit-Ashok-Swain/Restaurant-Management-System](https://github.com/Amit-Ashok-Swain/Restaurant-Management-System)
 
 Branch name: main
+
+## PHP Projects
+
+### Modern Order Management System
+[https://github.com/Novitsh/modern-order-management](https://github.com/Novitsh/modern-order-management)
+
+Branch name: master
+
+### Legacy Order Management System
+[https://github.com/Novitsh/legacy-order-management](https://github.com/Novitsh/legacy-order-management)
+
+Branch name: master
