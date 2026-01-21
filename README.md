@@ -61,6 +61,9 @@ Branch name: main
 
 Branch name: master
 
+### School Management System
+[https://github.com/ProjectsAndPrograms/school-management-system](https://github.com/ProjectsAndPrograms/school-management-system)
+
 ## Kotlin Projects
 
 ### Kotlin Quiz App
