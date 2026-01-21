@@ -64,6 +64,9 @@ Branch name: master
 ### School Management System
 [https://github.com/ProjectsAndPrograms/school-management-system](https://github.com/ProjectsAndPrograms/school-management-system)
 
+### Symfony Demo App
+[https://github.com/symfony/demo](https://github.com/symfony/demo)
+
 ## Kotlin Projects
 
 ### Kotlin Quiz App
