@@ -61,13 +61,13 @@ Branch name: main
 
 Branch name: master
 
-### School Management System
+### School Management System [?]
 [https://github.com/ProjectsAndPrograms/school-management-system](https://github.com/ProjectsAndPrograms/school-management-system)
 
-### Symfony Demo App
+### Symfony Demo App [P]
 [https://github.com/symfony/demo](https://github.com/symfony/demo)
 
-### Laravel Library Management App
+### Laravel Library Management App [P]
 [https://github.com/tauseedzaman/Laravel-library-management-system](https://github.com/tauseedzaman/Laravel-library-management-system)
 
 ## Kotlin Projects
