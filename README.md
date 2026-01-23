@@ -70,6 +70,8 @@ Branch name: master
 ### Laravel Library Management App [P]
 [https://github.com/tauseedzaman/Laravel-library-management-system](https://github.com/tauseedzaman/Laravel-library-management-system)
 
+### Student Management System Laravel
+[https://github.com/abdulmabud/Student-Management-System-Laravel](https://github.com/abdulmabud/Student-Management-System-Laravel)
 ## Kotlin Projects
 
 ### Kotlin Quiz App
