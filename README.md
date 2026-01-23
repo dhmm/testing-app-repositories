@@ -67,6 +67,9 @@ Branch name: master
 ### Symfony Demo App
 [https://github.com/symfony/demo](https://github.com/symfony/demo)
 
+### Laravel Library Management App
+[https://github.com/tauseedzaman/Laravel-library-management-system](https://github.com/tauseedzaman/Laravel-library-management-system)
+
 ## Kotlin Projects
 
 ### Kotlin Quiz App
